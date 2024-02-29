@@ -123,7 +123,6 @@
 	"visible"	 "1"
 	"enabled"	 "1"
 	"tabPosition"	"0"	
-	"image"	 "/replay/thumbnails/koolaid"
 	"PaintBackgroundType"	"0"
 	}
 	"BG"
